@@ -39,7 +39,7 @@ Comparison of generated faces at different training stages (Epochs 1, 5, 10, and
 
 The Generator produces 64 synthetic human face images from random noise.
 
-![Generated Faces](%5BGenerated%20Faces.png)
+![Generated Faces](./Generated%20Faces.png)
 
 ## Training Loss Curve
 
